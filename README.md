@@ -1,48 +1,8 @@
 # Techie-Nerd-Academy
-Path to a free self-taught education in Computer Science! with open source resources
+## Path to a free self-taught education in Computer Science! with open source resources
+## Courses [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/Rachamv/TNS-Academy-List)
 
-[CS 5150: Software Engineering
-Spring 2018](https://www.cs.cornell.edu/courses/cs5150/2018sp/lectures)
-# Courses [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
-
-_Please read [contribution guidelines](contributing.md) before contributing._
-
-- [Algorithms](#algorithms)
-- [Artificial Intelligence](#artificial-intelligence)
-- [Business](#business)
-- [Chemistry](#chemistry)
-- [Compilers](#compilers)
-- [Computer Science](#computer-science)
-- [Computer vision](#computer-vision)
-- [Cryptocurrency](#cryptocurrency)
-- [Cryptography](#cryptography)
-- [CSS](#css)
-- [Decentralized systems](#decentralized-systems)
-- [Deep Learning](#deep-learning)
-- [Discrete math](#discrete-math)
-- [Functional programming](#functional-programming)
-- [Game development](#game-development)
-- [Haskell](#haskell)
-- [Investing](#investing)
-- [iOS](#ios)
-- [Machine learning](#machine-learning)
-- [Math](#math)
-- [Networking](#networking)
-- [Neuroscience](#neuroscience)
-- [Natural Language Processing](#natural-language-processing)
-- [Operating systems](#operating-systems)
-- [Programming](#programming)
-- [React](#react)
-- [ReasonML](#reasonml)
-- [Rust](#rust)
-- [Scala](#scala)
-- [Security](#security)
-- [Statistics](#statistics)
-- [Swift](#swift)
-- [Type theory](#type-theory)
-- [Vim](#vim)
-- [Web Development](#web-development)
-- [Related](#related)
+_Please read [contribution guidelines](https://tinyurl.com/3n7pc4wf) before contributing._
 
 ## Algorithms
 
@@ -58,6 +18,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Introduction to programming contests (2012)](http://web.stanford.edu/class/cs97si/) 🆓
 - [MIT advanced data structures (2014)](http://courses.csail.mit.edu/6.851/spring14/index.html) 🆓
 - [MIT introduction to algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/) 🆓
+- [CS 5150: Software Engineering
+Spring 2018](https://www.cs.cornell.edu/courses/cs5150/2018sp/lectures)🆓
 
 ## Artificial Intelligence
 
@@ -285,6 +247,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Dive into machine learning](https://github.com/hangtwenty/dive-into-machine-learning) 🆓
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
-[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](contributing.md)
-[![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/Rachamv/TNS-Academy-List)
+[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/TNSQUAD/Techie-Nerd-Academy/blob/main/contribution.md)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/racham_v)
+

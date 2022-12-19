@@ -145,6 +145,7 @@ Spring 2018](https://www.cs.cornell.edu/courses/cs5150/2018sp/lectures)🆓
 
 ## Math
 
+- [How to Learn Math](https://learning.edx.org/course/course-v1:StanfordOnline+GSE-YEDUC115-S+1T2020)
 - [Abstract algebra (2019)](https://www.math.upenn.edu/~ted/502F19//math502.html) 🆓
 - [MIT linear algebra (2010)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) 🆓
 - [MIT multivariable calculus (2007)](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) 🆓
